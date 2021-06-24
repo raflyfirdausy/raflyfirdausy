@@ -37,8 +37,6 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyfirdausy&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180>
 </span>
 
-[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raflyfirdausy)  
+[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raflyfirdausy)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raflyfirdausy)
 
