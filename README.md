@@ -4,7 +4,7 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
 
 - 🔭  Currently learning `Flutter`,`PHP`,`Java`,`Kotlin`,`Node.js`,`Python`,`Arduino`
 - 🧱  Fullstack Developer [Innocircle Initiative](https://innocircle.id/)
-- 🥡  Backend Developer [Ultranesia](https://www.ultranesia.com/)
+- 🥡  Backend Developer [Ultranesia](https://ultranesia.com/)
 - 🔍  More About me  [rafly.id](https://rafly.id/)
 
 <p>
