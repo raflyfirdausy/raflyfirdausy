@@ -28,11 +28,11 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
   </a>
 </p>
 
-[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy)
-
 <h1>GitHub Stats</h1>
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=raflyfirdausy&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="GitHub Stats" width=400></span>
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyfirdausy&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180>
 </span>
+
+[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy)
