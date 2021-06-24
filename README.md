@@ -11,16 +11,16 @@ Hello I love building amazing software which make an impact
 - 🔍  More About me  [rafly.id](https://rafly.id/)
 
 <p>
-  <a href="https://www.linkedin.com/in/rafli-firdausy/">
+  <a href="https://linkedin.com/in/rafli-firdausy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
-  <a href="https://www.twitter.com/rafly_firdausy">
+  <a href="https://twitter.com/rafly_firdausy">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>   
-  <a href="https://www.facebook.com/Rafly.Firdausy/">
+  <a href="https://facebook.com/Rafly.Firdausy/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
   </a>
-  <a href="https://www.instagram.com/rafly_firdausy/">
+  <a href="https://instagram.com/rafly_firdausy/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
   <a href="https://tiktok.com/@rafly_firdausy">
