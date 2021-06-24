@@ -38,3 +38,7 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
 </span>
 
 [![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raflyfirdausy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raflyfirdausy)
+
