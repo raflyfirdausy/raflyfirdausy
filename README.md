@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Rafly Firdausy 👋
 
-Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
+Hello I love building amazing software which make an impact 
 
+- 🌱  I’m currently working on a ton of side project!
 - 🔭  Currently learning `Flutter`,`PHP`,`Java`,`Kotlin`,`Node.js`,`Python`,`Arduino`
+- 👯  I’m looking to collaborate with other developer
 - 🧱  Fullstack Developer [Innocircle Initiative](https://innocircle.id/)
 - 🥡  Backend Developer [Ultranesia](https://ultranesia.com/)
+- ⚡  Fun fact: I love Hiking, finding bug and create unfinished side project 😋
 - 🔍  More About me  [rafly.id](https://rafly.id/)
 
 <p>
