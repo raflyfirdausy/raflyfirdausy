@@ -28,7 +28,7 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
   </a>
 </p>
 
-[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy&layout=compact)](https://github.com/raflyfirdausy/raflyfirdausy)
+[![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy)
 
 <h1>GitHub Stats</h1>
 <span>
