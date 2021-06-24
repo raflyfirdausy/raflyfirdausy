@@ -28,6 +28,8 @@ Hello I'm Rafli Firdausy, I love building amazing software which make an impact.
   </a>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/raflyfirdausy)  
+
 <h1>GitHub Stats</h1>
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=raflyfirdausy&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="GitHub Stats" width=400></span>
