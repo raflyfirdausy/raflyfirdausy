@@ -42,5 +42,5 @@ Hello I love building amazing software which make an impact
 
 [![Rafly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafly_firdausy)](https://github.com/raflyfirdausy/raflyfirdausy) 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raflyfirdausy)   -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raflyfirdausy)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raflyfirdausy) -->
 
