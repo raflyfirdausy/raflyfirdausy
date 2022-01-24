@@ -6,7 +6,7 @@ Hello I love building amazing software which make an impact
 - 🔭  Currently learning `Flutter`,`PHP`,`Java`,`Kotlin`,`Node.js`,`Python`,`Arduino`
 - 👯  I’m looking to collaborate with other developer
 - 🧱  Programmer [Dinkominfo Kab Banyumas](https://www.banyumaskab.go.id/)
-- 🥡  Backend Developer [Ultranesia](https://ultranesia.com/)
+- 🥡  Backend Developer [P.T Noto Teknologi Indonesia (Ultranesia)](https://ultranesia.com/)
 - ⚡  Fun fact: I love Hiking, finding bug and create unfinished side project 😋
 - 🔍  More About me  [rafly.id](https://rafly.id/)
 
