@@ -5,7 +5,7 @@ Hello I love building amazing software which make an impact
 - 🌱  I’m currently working on a ton of side project!
 - 🔭  Currently learning `Flutter`,`PHP`,`Java`,`Kotlin`,`Node.js`,`Python`,`Arduino`
 - 👯  I’m looking to collaborate with other developer
-- 🧱  Senior Programmer [Dinkominfo Kab Banyumas](https://www.banyumaskab.go.id/)
+<!-- - 🧱  Senior Programmer [Dinkominfo Kab Banyumas](https://www.banyumaskab.go.id/) -->
 - 🥡  Fullstack Developer [PT Noto Teknologi Indonesia (Ultranesia)](https://ultranesia.com/)
 - ⚡  Fun fact: I love Hiking, finding bug and create unfinished side project 😋
 - 🔍  More About me  [rafly.id](https://rafly.id/)
